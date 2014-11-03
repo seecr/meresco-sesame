@@ -1,0 +1,4 @@
+meresco-triplestore-client (>= 4.7.2)
+meresco-triplestore-client (<< 4.8)
+meresco-triplestore-server (>= 4.7.2)
+meresco-triplestore-server (<< 4.8)
